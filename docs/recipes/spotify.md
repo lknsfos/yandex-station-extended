@@ -101,9 +101,9 @@ ERROR librespot_playback::player] Skipping to next track, unable to load track �
 Spotify не выдаёт librespot ключ расшифровки трека. Это не ошибка установки и не DPI:
 соединение со шлюзом `ap-*.spotify.com` при этом открыто. Проверено на Станции 2, прошивка
 `0.369.1.46`, librespot 0.8.0, октябрь 2026: ключ не выдан ни для одного трека, в том числе
-для первого после входа; смена шлюза (`ap-gew1` → `ap-gew4`) и выход через европейский прокси не помогли,
-официальное приложение на том же аккаунте играет. Исправления в librespot на конец октября
-2026 нет — см. [#1649](https://github.com/librespot-org/librespot/issues/1649),
+для первого после входа; смена шлюза (`ap-gew1` → `ap-gew4`) и выход через европейский прокси
+не помогли, официальное приложение на том же аккаунте играет. Исправления в librespot на конец
+октября 2026 нет — см. [#1649](https://github.com/librespot-org/librespot/issues/1649),
 [#1664](https://github.com/librespot-org/librespot/issues/1664) и
 [#1735](https://github.com/librespot-org/librespot/issues/1735): в последнем на одной машине
 один Premium-аккаунт играет, другой получает ту же ошибку.
